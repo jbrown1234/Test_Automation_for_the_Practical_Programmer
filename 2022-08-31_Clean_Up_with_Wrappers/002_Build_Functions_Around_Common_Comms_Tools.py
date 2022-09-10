@@ -28,7 +28,7 @@ def instrument_write(sckt: socket,
 def instrument_read(sckt: socket,
                     rec_size: int):
     """add docstring"""
-    return sckt.recv(RCV_SZ).decode().rstrip()
+    return sckt.recv(rec_size).decode().rstrip()
     
 
 def instrument_query(sckt: socket,
