@@ -9,4 +9,4 @@
 # Contents
 + (2022-08-26) **Connect to Your Instrument Using Sockets and Python** - This example shows you the code setup that will allow you to connect and disconnect to a LAN-enabled piece of test equipment through a sockets-based connection as well as how to terminate the connection. To supplement, you will also see how you can send a command string as well as receive string data back. [Supporting video found here.](https://youtu.be/2Kh9OiVLkfY)
 + (2022-08-31) **Clean Up Your Sockets Instrument Comms with Functions** - This example shows how you might consider cleaning up some of your sockets methods using your own custom wrappers, simplifying at least the connect, write, and read methods. [Supporting video found here.](https://youtu.be/1kBoPt8NSgU)
-+ (2022-09-nn) **Coming soon!**
++ (2022-10-22) **Create a Class for Your Instrument Comms** - This examples takes the learnings of our previous two videos a step further by showing how we can roll our communications functions into a class. [Supporting video found here.](https://youtu.be/b4rjqb6ky3s)
